@@ -64,3 +64,5 @@ You are also recommended to add brief comments to state the function of each blo
 **Tests**
 
 For important functions, please write a simple test case naming as test_function_name.py. After the test is passed, archive it in the test directory. When reviewing codes, this would be helpful for code reviewers to understand the usage of functions and to expand the tests with some border cases.
+
+Testing solutions
